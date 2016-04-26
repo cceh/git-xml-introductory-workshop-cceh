@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DS_ify_ylx_5q" rendition="EpiDoc_C">
     <teiHeader>
         <fileDesc>
@@ -9,6 +9,7 @@
                 <authority>Institut für Altertumskunde der Universität zu Köln</authority>
                 <availability>
                     <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
+		<test>schon wieder was testen</test>
                 </availability>
             </publicationStmt>
             <sourceDesc>
