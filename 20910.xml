@@ -6,6 +6,7 @@
                 <title/>
             </titleStmt>
             <publicationStmt>
+                aosdfihsfdhsdfhsdfh
                 <authority>Institut für Altertumskunde der Universität zu Köln</authority>
                 <availability>
                     <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
@@ -19,7 +20,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItemStruct defective="true" xml:id="T_atf_rhl_vq">
-                            <locus target="#LE_btf_rhl_vq">Verso</locus>
+                            <locus target="#12345ra">Verso</locus>
                             <respStmt>
                                 <resp>HerausgeberIn</resp>
                                 <name/>
