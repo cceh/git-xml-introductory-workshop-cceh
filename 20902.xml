@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DS_ek2_4jx_5q" rendition="EpiDoc_C">
     <teiHeader>
         <fileDesc>
@@ -11,6 +11,7 @@
                     <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
                 </availability>
             </publicationStmt>
+            <test>ich habe einen neuen Tag eingefügt</test>
             <sourceDesc>
                 <msDesc xml:id="TT_fk2_4jx_5q">
                     <msIdentifier>
