@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DS_tdt_g3l_vq" rendition="EpiDoc_C">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institut für Altertumskunde der Universität zu Köln</authority>
+                <availability>
+                    <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="TT_udt_g3l_vq">
+                    <msIdentifier>
+                        <idno>20911</idno>
+                        <collection>Köln, Papyrussammlung</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct defective="true" xml:id="T_vdt_g3l_vq">
+                            <locus target="#LE_wdt_g3l_vq">Recto</locus>
+                            <respStmt>
+                                <resp>HerausgeberIn</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp>BearbeiterIn</resp>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <listBibl>
+                                <bibl>
+                                    <biblScope/>
+                                </bibl>
+                            </listBibl>
+                            <note type="availability">unpubliziert</note>
+                            <note type="publication"/>
+                            <note type="text_type">dokumentarisch</note>
+                            <note type="content">
+                                <p>Acht Papyrusstreifen mit Resten von Schrift. Gehören wohl nicht
+                                    alle zu demselben Dokument. Die vier ersten Stücke oben links
+                                    enthalten Reste von Zahlen und gehören vermutlich zu
+                                    verschiedenen Abrechnungen. Vgl. ähnliche Fragmente unter der
+                                    Inv. Nr. 20878.</p>
+                            </note>
+                            <note type="illustrations">
+                                <p>Keine</p>
+                            </note>
+                            <note type="orig_date">
+                                <date type="Zeitraum" cert="low" notBefore="-0299" notAfter="-0100">
+                                    <note/>
+                                </date>
+                            </note>
+                            <note type="orig_place">
+                                <place>
+                                    <placeName cert="high">unbekannt</placeName>
+                                    <note/>
+                                </place>
+                            </note>
+                            <note type="general">
+                                <p/>
+                            </note>
+                            <textLang mainLang="keine Angabe">
+                                <note type="language">
+                                    <term type="language">Griechisch</term>
+                                </note>
+                                <note type="script">
+                                    <term type="script">Griechisch</term>
+                                    <note type="writing_direction">keine Angabe</note>
+                                    <note type="ink">schwarz</note>
+                                    <note type="hand_desc">
+                                        <p/>
+                                    </note>
+                                    <note type="structural_markers">
+                                        <p>Keine</p>
+                                    </note>
+                                </note>
+                            </textLang>
+                        </msItemStruct>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Rolle</objectType>
+                                    <material>
+                                        <material>Papyrus</material>
+                                        <material type="note"/>
+                                    </material>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                        <depth unit="cm"/>
+                                        <dim type="length" unit="cm"/>
+                                        <dim type="diameter" unit="cm"/>
+                                        <dim type="circumference" unit="cm"/>
+                                    </dimensions>
+                                    <note type="dimensions">
+                                        <p>Fr. a (1. oben links): 1 x 13,9 cm; Fr. b (2. oben von
+                                            links nach rechts): 1,8 x 24,7 cm; Fr. c (oben Mitte):
+                                            1,5 x 24,3; Fr. d (rechts): 0,8 x 14,3 cm; Fr. e (unten
+                                            links): 1,4 x 19,8 cm; Fr. f (dünne streife Mitte): 0,4
+                                            x 3,6 cm; Fr. g (unten Mitte): 6,7 x 1 cm </p>
+                                    </note>
+                                    <note type="Fragment">
+                                        <p/>
+                                    </note>
+                                    <note type="Blatt">
+                                        <p/>
+                                    </note>
+                                    <note type="Rekto">
+                                        <p/>
+                                    </note>
+                                    <note type="Verso">
+                                        <p>Reste/Spuren</p>
+                                    </note>
+                                    <note type="preparation"/>
+                                    <note type="color">Hellbraun</note>
+                                </support>
+                                <condition>
+                                    <p>Erhalten ist nur die Schicht, die das Verso des Papyrus
+                                        enthält.</p>
+                                </condition>
+                                <collation>
+                                    <p/>
+                                </collation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout xml:id="LE_wdt_g3l_vq">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_wdt_g3l_vq"/>
+                                    <desc>Verso (vordere Seite)</desc>
+                                </layout>
+                                <layout xml:id="LE_qt1_vpl_vq">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_qt1_vpl_vq"/>
+                                    <desc>Verso (Rückseite)</desc>
+                                </layout>
+                            </layoutDesc>
+                            <layoutDesc>
+                                <p/>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <p/>
+                        </provenance>
+                        <acquisition>
+                            <note type="acquisition_type">Kauf</note>
+                            <note type="finding_place"/>
+                            <note type="finding_date"/>
+                            <note type="finder"/>
+                            <note type="buying_place"/>
+                            <note type="buying_date">1989</note>
+                            <note type="buyer"/>
+                            <note type="seller"/>
+                            <note type="donor"/>
+                            <note type="donation_place"/>
+                            <note type="donation_date"/>
+                            <note type="folder"/>
+                            <note type="box"/>
+                            <note type="drawing_date"/>
+                            <note type="general">
+                                <p/>
+                            </note>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <ab type="custody">Glasscheiben</ab>
+                            </custodialHist>
+                            <note type="coverage_amount"/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listBibl>
+                    <bibl>
+                        <biblScope/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic xml:id="AB_xdt_g3l_vq" url="http://papyri.uni-koeln.de/files/z_images/20911/orig/PK_Inv_20911r.tif" corresp="#LE_wdt_g3l_vq">
+                <desc>Verso (vordere Seite)</desc>
+            </graphic>
+            <graphic xml:id="AB_t22_mtf_kr" url="http://papyri.uni-koeln.de/files/z_images/20911/orig/PK_Inv_20911v.tif" corresp="#LE_qt1_vpl_vq">
+                <desc>Verso (Rückseite)</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition">
+                <div type="edition">
+                    <ab/>
+                </div>
+                <div type="translation">
+                    <ab/>
+                </div>
+                <div type="apparatus">
+                    <ab/>
+                </div>
+                <div type="commentary">
+                    <ab/>
+                </div>
+                <div type="bibliography">
+                    <ab/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

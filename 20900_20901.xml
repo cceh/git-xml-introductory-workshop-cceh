@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DS_gjy_13x_5q" rendition="EpiDoc_C">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institut für Altertumskunde der Universität zu Köln</authority>
+                <availability>
+                    <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="TT_hjy_13x_5q">
+                    <msIdentifier>
+                        <idno>20900+20901</idno>
+                        <collection>Köln, Papyrussammlung</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct defective="true" xml:id="T_ijy_13x_5q">
+                            <locus target="#LE_jjy_13x_5q">Recto</locus>
+                            <respStmt>
+                                <resp>HerausgeberIn</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp>BearbeiterIn</resp>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <listBibl>
+                                <bibl>
+                                    <biblScope/>
+                                </bibl>
+                            </listBibl>
+                            <note type="availability">unpubliziert</note>
+                            <note type="publication"/>
+                            <note type="text_type">dokumentarisch</note>
+                            <note type="content">
+                                <p>Namen, Register, Land?</p>
+                            </note>
+                            <note type="illustrations">
+                                <p>Keine</p>
+                            </note>
+                            <note type="orig_date" rend="Bei der Datierung des Textträgers oder Textes können ein oder mehrere alternative Daten angegeben werden.   Ein Datum kann entweder als ungenauer Zeitraum (nicht vor-nicht nach) oder als genauer Zeitpunkt (wann) angegeben werden.   In den Feldern ist jeweils ein Datumswert in Form von Zahlen einzugeben. Der Datumswert muss mindestens aus einer vierstelligen Jahreszahl bestehen. Bei drei-, zwei- oder einstelligen Jahreszahlen sollten führende Nullen verwendet werden. Für 'v.Chr.' sollte ein Minuszeichen vorangestellt werden. Über die Jahreszahl hinaus kann der Datumswert auch Angaben zum Monat und zum Tag enthalten. Diese sind jeweils als zweistellige Zahl, ggf. mit führender Null, anzugeben. Die Angaben von Jahr, Monat und Tag werden durch einen Bindestrich verbunden. Beispiele: '-0134' (134 v.Chr.), '0048-08-12' (12. August 48 n.Chr.).   Standardmäßig wird angenommen, dass die Datierung sicher ist. Unsicherheit kann durch das Setzen eines Häkchens im Feld 'unsicher' angegeben werden.   Zusätzlich besteht die Möglichkeit, die Datierung im Feld 'Kommentar' in Textform ergänzend zu beschreiben.">
+                                <date type="Zeitraum" cert="low" notBefore="-0199" notAfter="-0100">
+                                    <note/>
+                                </date>
+                            </note>
+                            <note type="orig_place">
+                                <place>
+                                    <placeName cert="low">Herakleopolites</placeName>
+                                    <note>Auf dem Verso werden herakleopolitische Ortschaften
+                                        erwähnt</note>
+                                </place>
+                            </note>
+                            <note type="general">
+                                <p/>
+                            </note>
+                            <textLang mainLang="keine Angabe">
+                                <note type="language">
+                                    <term type="language">Griechisch</term>
+                                </note>
+                                <note type="script">
+                                    <term type="script">Griechisch</term>
+                                    <note type="writing_direction">parallel zu den Fasern</note>
+                                    <note type="ink">schwarz</note>
+                                    <note type="hand_desc">
+                                        <p/>
+                                    </note>
+                                    <note type="structural_markers">
+                                        <p/>
+                                    </note>
+                                </note>
+                            </textLang>
+                        </msItemStruct>
+                        <msItemStruct defective="true" xml:id="T_rvq_q3x_5q">
+                            <locus target="#LE_wr3_djx_5q">Verso</locus>
+                            <respStmt>
+                                <resp>HerausgeberIn</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp>BearbeiterIn</resp>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <listBibl>
+                                <bibl>
+                                    <biblScope/>
+                                </bibl>
+                            </listBibl>
+                            <note type="availability">unpubliziert</note>
+                            <note type="publication"/>
+                            <note type="text_type">dokumentarisch</note>
+                            <note type="content">
+                                <p>Reste 2 Kolumnen, Abrechnung, Weizen?</p>
+                            </note>
+                            <note type="illustrations">
+                                <p>Am linken Rande der zweiten Kolumne amtliche Erledigungsvermerke
+                                    (diagonale Striche)</p>
+                            </note>
+                            <note type="orig_date">
+                                <date type="Zeitraum" cert="low" notBefore="-0199" notAfter="-0100">
+                                    <note/>
+                                </date>
+                            </note>
+                            <note type="orig_place">
+                                <place>
+                                    <placeName cert="low">Herakleopolites</placeName>
+                                    <note>Herakleopolitische Ortschaften (z.B. Tinteris) werden
+                                        erwähnt)</note>
+                                </place>
+                            </note>
+                            <note type="general">
+                                <p>Der Text wurde quer zu den Fasern geschrieben</p>
+                            </note>
+                            <textLang mainLang="keine Angabe">
+                                <note type="language">
+                                    <term type="language">Griechisch</term>
+                                </note>
+                                <note type="script">
+                                    <term type="script">Griechisch</term>
+                                    <note type="writing_direction">keine Angabe</note>
+                                    <note type="ink">schwarz</note>
+                                    <note type="hand_desc">
+                                        <p>kursiv</p>
+                                    </note>
+                                    <note type="structural_markers">
+                                        <p/>
+                                    </note>
+                                </note>
+                            </textLang>
+                        </msItemStruct>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Rolle</objectType>
+                                    <material>
+                                        <material>Papyrus</material>
+                                        <material type="note"/>
+                                    </material>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                        <depth unit="cm"/>
+                                        <dim type="length" unit="cm"/>
+                                        <dim type="diameter" unit="cm"/>
+                                        <dim type="circumference" unit="cm"/>
+                                    </dimensions>
+                                    <note type="dimensions">
+                                        <p>Inv. Nr. 20900: 18,7 x 16,6 cm; Inv. Nr. 20901: 21,4
+                                            x16,8 cm</p>
+                                    </note>
+                                    <note type="Fragment">
+                                        <p/>
+                                    </note>
+                                    <note type="Blatt">
+                                        <p/>
+                                    </note>
+                                    <note type="Rekto">
+                                        <p/>
+                                    </note>
+                                    <note type="Verso">
+                                        <p/>
+                                    </note>
+                                    <note type="preparation"/>
+                                    <note type="color">Hellbraun</note>
+                                </support>
+                                <condition>
+                                    <p/>
+                                </condition>
+                                <collation>
+                                    <p/>
+                                </collation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout xml:id="LE_jjy_13x_5q">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_jjy_13x_5q"/>
+                                    <desc>Recto</desc>
+                                </layout>
+                                <layout xml:id="LE_wr3_djx_5q">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_wr3_djx_5q"/>
+                                    <desc>Verso</desc>
+                                </layout>
+                            </layoutDesc>
+                            <layoutDesc>
+                                <p/>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <p/>
+                        </provenance>
+                        <acquisition>
+                            <note type="acquisition_type">Kauf</note>
+                            <note type="finding_place"/>
+                            <note type="finding_date"/>
+                            <note type="finder"/>
+                            <note type="buying_place"/>
+                            <note type="buying_date">1989</note>
+                            <note type="buyer"/>
+                            <note type="seller"/>
+                            <note type="donor"/>
+                            <note type="donation_place"/>
+                            <note type="donation_date"/>
+                            <note type="folder"/>
+                            <note type="box"/>
+                            <note type="drawing_date"/>
+                            <note type="general">
+                                <p/>
+                            </note>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <ab type="custody">Glasscheiben</ab>
+                            </custodialHist>
+                            <note type="coverage_amount"/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listBibl>
+                    <bibl>
+                        <biblScope/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic xml:id="AB_kjy_13x_5q" url="http://papyri.uni-koeln.de/files/z_images/20900_20901/orig/PK_inv_20900_20901r.jpg" corresp="#LE_jjy_13x_5q">
+                <desc>Recto</desc>
+            </graphic>
+            <graphic xml:id="AB_ach_mkq_xr" url="http://papyri.uni-koeln.de/files/z_images/20900_20901/orig/PK_inv_20900_20901v.jpg" corresp="#LE_wr3_djx_5q">
+                <desc>Verso</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition">
+                <div type="edition">
+                    <ab/>
+                </div>
+                <div type="translation">
+                    <ab/>
+                </div>
+                <div type="apparatus">
+                    <ab/>
+                </div>
+                <div type="commentary">
+                    <ab/>
+                </div>
+                <div type="bibliography">
+                    <ab/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

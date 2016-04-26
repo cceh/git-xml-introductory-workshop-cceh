@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DS_jtj_pkx_5q" rendition="EpiDoc_C">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institut für Altertumskunde der Universität zu Köln</authority>
+                <availability>
+                    <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="TT_ktj_pkx_5q">
+                    <msIdentifier>
+                        <idno>20903</idno>
+                        <collection>Köln, Papyrussammlung</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct defective="true" xml:id="T_ltj_pkx_5q">
+                            <locus target="#LE_mtj_pkx_5q">Recto und Verso</locus>
+                            <respStmt>
+                                <resp>HerausgeberIn</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp>BearbeiterIn</resp>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <listBibl>
+                                <bibl>
+                                    <biblScope/>
+                                </bibl>
+                            </listBibl>
+                            <note type="availability">unpubliziert</note>
+                            <note type="publication"/>
+                            <note type="text_type">keine Angabe</note>
+                            <note type="content">
+                                <p>Zwei lose lange Papyrusstreifen mit wenigen
+                                    Tintespuren/Resten</p>
+                            </note>
+                            <note type="illustrations">
+                                <p/>
+                            </note>
+                            <note type="orig_date">
+                                <date type="Zeitraum" cert="low" notBefore="-0399" notAfter="0800">
+                                    <note/>
+                                </date>
+                            </note>
+                            <note type="orig_place">
+                                <place>
+                                    <placeName cert="high">unbekannt</placeName>
+                                    <note/>
+                                </place>
+                            </note>
+                            <note type="general">
+                                <p/>
+                            </note>
+                            <textLang mainLang="keine Angabe">
+                                <note type="language">
+                                    <term type="language"/>
+                                </note>
+                                <note type="script">
+                                    <term type="script"/>
+                                    <note type="writing_direction">keine Angabe</note>
+                                    <note type="ink"/>
+                                    <note type="hand_desc">
+                                        <p/>
+                                    </note>
+                                    <note type="structural_markers">
+                                        <p/>
+                                    </note>
+                                </note>
+                            </textLang>
+                        </msItemStruct>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType/>
+                                    <material>
+                                        <material>Papyrus</material>
+                                        <material type="note"/>
+                                    </material>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                        <depth unit="cm"/>
+                                        <dim type="length" unit="cm"/>
+                                        <dim type="diameter" unit="cm"/>
+                                        <dim type="circumference" unit="cm"/>
+                                    </dimensions>
+                                    <note type="dimensions">
+                                        <p>Fr. a (links): 0,6 x 11,7 cm; Fr. b (rechts): 3,1 x 30,9
+                                            cm</p>
+                                    </note>
+                                    <note type="Fragment">
+                                        <p/>
+                                    </note>
+                                    <note type="Blatt">
+                                        <p/>
+                                    </note>
+                                    <note type="Rekto">
+                                        <p/>
+                                    </note>
+                                    <note type="Verso">
+                                        <p/>
+                                    </note>
+                                    <note type="preparation"/>
+                                    <note type="color"/>
+                                </support>
+                                <condition>
+                                    <p/>
+                                </condition>
+                                <collation>
+                                    <p/>
+                                </collation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout xml:id="LE_mtj_pkx_5q">
+                                    <note type="type">Fläche</note>
+                                    <locus/>
+                                    <desc>Recto</desc>
+                                </layout>
+                                <layout xml:id="LE_qpf_1jd_vq">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_qpf_1jd_vq"/>
+                                    <desc>Verso</desc>
+                                </layout>
+                            </layoutDesc>
+                            <layoutDesc>
+                                <p/>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <p/>
+                        </provenance>
+                        <acquisition>
+                            <note type="acquisition_type">Kauf</note>
+                            <note type="finding_place"/>
+                            <note type="finding_date"/>
+                            <note type="finder"/>
+                            <note type="buying_place"/>
+                            <note type="buying_date">1989</note>
+                            <note type="buyer"/>
+                            <note type="seller"/>
+                            <note type="donor"/>
+                            <note type="donation_place"/>
+                            <note type="donation_date"/>
+                            <note type="folder"/>
+                            <note type="box"/>
+                            <note type="drawing_date"/>
+                            <note type="general">
+                                <p/>
+                            </note>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <ab type="custody"/>
+                            </custodialHist>
+                            <note type="coverage_amount"/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listBibl>
+                    <bibl>
+                        <biblScope/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic xml:id="AB_ntj_pkx_5q" url="http://papyri.uni-koeln.de/files/z_images/20903/orig/PK_Inv_20903r.tif" corresp="#LE_mtj_pkx_5q">
+                <desc>Recto</desc>
+            </graphic>
+            <graphic xml:id="AB_jft_mmf_kr" url="http://papyri.uni-koeln.de/files/z_images/20903/orig/PK_Inv_20903v.tif" corresp="#LE_qpf_1jd_vq">
+                <desc>Verso</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition">
+                <div type="edition">
+                    <ab/>
+                </div>
+                <div type="translation">
+                    <ab/>
+                </div>
+                <div type="apparatus">
+                    <ab/>
+                </div>
+                <div type="commentary">
+                    <ab/>
+                </div>
+                <div type="bibliography">
+                    <ab/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

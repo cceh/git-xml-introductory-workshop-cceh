@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DS_gpq_crl_vq" rendition="EpiDoc_C">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Institut für Altertumskunde der Universität zu Köln</authority>
+                <availability>
+                    <p>Siehe Anmerkungen bei den Beschreibungen der einzelnen Texte.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="TT_hpq_crl_vq">
+                    <msIdentifier>
+                        <idno>20915</idno>
+                        <collection>Köln, Papyrussammlung</collection>
+                    </msIdentifier>
+                    <msContents>
+                        <msItemStruct defective="true" xml:id="T_ipq_crl_vq">
+                            <locus target="#LE_jpq_crl_vq">Recto</locus>
+                            <respStmt>
+                                <resp>HerausgeberIn</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp>BearbeiterIn</resp>
+                                <name>G. Schenke</name>
+                            </respStmt>
+                            <title/>
+                            <listBibl>
+                                <bibl>
+                                    <biblScope/>
+                                </bibl>
+                            </listBibl>
+                            <note type="availability">in Bearbeitung</note>
+                            <note type="publication"/>
+                            <note type="text_type">dokumentarisch</note>
+                            <note type="content">
+                                <p/>
+                            </note>
+                            <note type="illustrations">
+                                <p>Keine</p>
+                            </note>
+                            <note type="orig_date">
+                                <date type="Zeitraum" cert="high">
+                                    <note/>
+                                </date>
+                            </note>
+                            <note type="orig_place">
+                                <place>
+                                    <placeName cert="high">keine Angabe</placeName>
+                                    <note/>
+                                </place>
+                            </note>
+                            <note type="general">
+                                <p/>
+                            </note>
+                            <textLang mainLang="keine Angabe">
+                                <note type="language">
+                                    <term type="language">Ägyptisch</term>
+                                </note>
+                                <note type="script">
+                                    <term type="script">Koptisch</term>
+                                    <note type="writing_direction">quer zu den Fasern</note>
+                                    <note type="ink"/>
+                                    <note type="hand_desc">
+                                        <p/>
+                                    </note>
+                                    <note type="structural_markers">
+                                        <p>keine</p>
+                                    </note>
+                                </note>
+                            </textLang>
+                        </msItemStruct>
+                        <msItemStruct defective="true" xml:id="T_cvj_dln_wq">
+                            <locus target="#LE_jjv_hrl_vq">Verso</locus>
+                            <respStmt>
+                                <resp>HerausgeberIn</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp>BearbeiterIn</resp>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <listBibl>
+                                <bibl>
+                                    <biblScope/>
+                                </bibl>
+                            </listBibl>
+                            <note type="availability">unpubliziert</note>
+                            <note type="publication"/>
+                            <note type="text_type">keine Angabe</note>
+                            <note type="content">
+                                <p/>
+                            </note>
+                            <note type="illustrations">
+                                <p>Keine</p>
+                            </note>
+                            <note type="orig_date">
+                                <date type="Zeitraum" cert="high">
+                                    <note/>
+                                </date>
+                            </note>
+                            <note type="orig_place">
+                                <place>
+                                    <placeName cert="high">unbekannt</placeName>
+                                    <note/>
+                                </place>
+                            </note>
+                            <note type="general">
+                                <p/>
+                            </note>
+                            <textLang mainLang="keine Angabe">
+                                <note type="language">
+                                    <term type="language">Arabisch</term>
+                                </note>
+                                <note type="script">
+                                    <term type="script">Arabisch</term>
+                                    <note type="writing_direction">quer zu den Fasern</note>
+                                    <note type="ink">schwarz</note>
+                                    <note type="hand_desc">
+                                        <p/>
+                                    </note>
+                                    <note type="structural_markers">
+                                        <p>Keine</p>
+                                    </note>
+                                </note>
+                            </textLang>
+                        </msItemStruct>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Rolle</objectType>
+                                    <material>
+                                        <material>Papyrus</material>
+                                        <material type="note"/>
+                                    </material>
+                                    <dimensions>
+                                        <width unit="cm">4,8</width>
+                                        <height unit="cm">26,5</height>
+                                        <depth unit="cm"/>
+                                        <dim type="length" unit="cm"/>
+                                        <dim type="diameter" unit="cm"/>
+                                        <dim type="circumference" unit="cm"/>
+                                    </dimensions>
+                                    <note type="dimensions">
+                                        <p/>
+                                    </note>
+                                    <note type="Fragment">
+                                        <p/>
+                                    </note>
+                                    <note type="Blatt">
+                                        <p/>
+                                    </note>
+                                    <note type="Rekto">
+                                        <p/>
+                                    </note>
+                                    <note type="Verso">
+                                        <p/>
+                                    </note>
+                                    <note type="preparation"/>
+                                    <note type="color"/>
+                                </support>
+                                <condition>
+                                    <p/>
+                                </condition>
+                                <collation>
+                                    <p>Keine</p>
+                                </collation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout xml:id="LE_jpq_crl_vq">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_jpq_crl_vq"/>
+                                    <desc>Recto</desc>
+                                </layout>
+                                <layout xml:id="LE_jjv_hrl_vq">
+                                    <note type="type">Fläche</note>
+                                    <locus target="#LE_jjv_hrl_vq"/>
+                                    <desc>Verso</desc>
+                                </layout>
+                            </layoutDesc>
+                            <layoutDesc>
+                                <p/>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <p/>
+                        </provenance>
+                        <acquisition>
+                            <note type="acquisition_type">Kauf</note>
+                            <note type="finding_place"/>
+                            <note type="finding_date"/>
+                            <note type="finder"/>
+                            <note type="buying_place"/>
+                            <note type="buying_date">1989</note>
+                            <note type="buyer"/>
+                            <note type="seller"/>
+                            <note type="donor"/>
+                            <note type="donation_place"/>
+                            <note type="donation_date"/>
+                            <note type="folder"/>
+                            <note type="box"/>
+                            <note type="drawing_date"/>
+                            <note type="general">
+                                <p/>
+                            </note>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <ab type="custody">Glasscheiben</ab>
+                            </custodialHist>
+                            <note type="coverage_amount"/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listBibl>
+                    <bibl>
+                        <biblScope/>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic xml:id="AB_kpq_crl_vq" corresp="#LE_jpq_crl_vq" url="http://papyri.uni-koeln.de/files/z_images/20915/orig/PK_Inv_20915r.tif">
+                <desc>Recto</desc>
+            </graphic>
+            <graphic xml:id="AB_q43_4wf_kr" url="http://papyri.uni-koeln.de/files/z_images/20915/orig/PK_Inv_20915v.tif" corresp="#LE_jjv_hrl_vq">
+                <desc>Verso</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition">
+                <div type="edition">
+                    <ab/>
+                </div>
+                <div type="translation">
+                    <ab/>
+                </div>
+                <div type="apparatus">
+                    <ab/>
+                </div>
+                <div type="commentary">
+                    <ab/>
+                </div>
+                <div type="bibliography">
+                    <ab/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
