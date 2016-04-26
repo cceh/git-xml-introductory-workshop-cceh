@@ -19,7 +19,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItemStruct defective="true" xml:id="T_atf_rhl_vq">
-                            <locus target="#LE_btf_rhl_vq">Recto</locus>
+                            <locus target="#12345ra">Recto</locus>
                             <respStmt>
                                 <resp>HerausgeberIn</resp>
                                 <name/>
